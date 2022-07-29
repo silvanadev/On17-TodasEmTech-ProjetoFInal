@@ -1,4 +1,4 @@
-# On17-TodasEmTech-ProjetoFInal
+# On17-TodasEmTech-ProjetoFinal
 
  
 Depois de muito aprendizado, você chegou na reta final do curso! 
